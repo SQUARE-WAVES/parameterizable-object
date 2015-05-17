@@ -1,0 +1,18 @@
+{
+  "name": "paramererizable-object",
+  "version": "0.0.0",
+  "description": "a simple object template for doing configurable kinds of things",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha -R spec -u tdd test/*.js"
+  },
+  "keywords": [
+    "param",
+    "object"
+  ],
+  "author": "Mike B!",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.8.0"
+  }
+}
