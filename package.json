@@ -1,6 +1,6 @@
 {
   "name": "paramererizable-object",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a simple object template for doing configurable kinds of things",
   "main": "main.js",
   "scripts": {
