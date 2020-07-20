@@ -1,5 +1,5 @@
 {
-  "name": "paramererizable-object",
+  "name": "parameterizable-object",
   "version": "1.0.0",
   "description": "a simple object template for doing configurable kinds of things",
   "main": "main.js",
@@ -13,6 +13,6 @@
   "author": "Mike B!",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.8.0"
+    "lodash": "^4.17.19"
   }
 }
